@@ -1,8 +1,8 @@
-version: 4.0.0
+version: 4.1.0
 files:
-  - url: Hitz-Music-Player-Setup-4.0.0.exe
-    sha512: QGqtMKuEggUCjGqeExtnkmPrak+6t47aBGgZ+irt+d0ydFPRWymCMoAvj63AZ2uE8YQi7OsN0c18cdK7em76cw==
-    size: 93616737
-path: Hitz-Music-Player-Setup-4.0.0.exe
-sha512: QGqtMKuEggUCjGqeExtnkmPrak+6t47aBGgZ+irt+d0ydFPRWymCMoAvj63AZ2uE8YQi7OsN0c18cdK7em76cw==
-releaseDate: '2025-02-28T19:21:06.216Z'
+  - url: Hitz-Music-Player-Setup-4.1.0.exe
+    sha512: 57UVL1tW7TURLNJJZk8tzyu8QN116j6E8tgzS2qburt/GrDyXcxnBgUZ81PsVIceCVa2A38twYtZUjkCOinc+A==
+    size: 93634177
+path: Hitz-Music-Player-Setup-4.1.0.exe
+sha512: 57UVL1tW7TURLNJJZk8tzyu8QN116j6E8tgzS2qburt/GrDyXcxnBgUZ81PsVIceCVa2A38twYtZUjkCOinc+A==
+releaseDate: '2025-02-28T19:46:05.119Z'
